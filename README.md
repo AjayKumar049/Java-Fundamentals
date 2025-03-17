@@ -1,5 +1,5 @@
 # Java-Fundamentals
-Refining Java skills 
+Refining Java Fundamentals
 
 #Task1 - Simple Calculator
 
@@ -14,3 +14,6 @@ Refining Java skills
 This error usually occurs when **Java code is written outside of a class** 
 or when there are **extra closing braces (`}`) or 
 misplaced semicolons** in the file.
+
+##Task2 - Checking the number is even or odd
+
