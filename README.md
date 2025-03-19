@@ -17,3 +17,7 @@ misplaced semicolons** in the file.
 
 #Task2 - Checking the number is even or odd
 
+#Task3 - Checking the Factorial of number using for loop
+
+#Task4 - Checking the Factorial of any number using for loop
+
