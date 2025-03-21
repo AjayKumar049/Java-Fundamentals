@@ -21,3 +21,5 @@ misplaced semicolons** in the file.
 
 #Task4 - Checking the Factorial of any number using for loop
 
+#Task5 - Sum of Five Natural Numbers Listed in an Array using While Loop
+
